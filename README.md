@@ -1,1 +1,1 @@
-
+Los datos en crudo que se usaron para el análisis ademas de la tasa de cambio que se uso para convertir cada moneda se encuentran en este link:https://drive.google.com/file/d/1QGJiEwLPe51xYxqoMmPZjJjQ5zQj-0nP/view?usp=sharing (3.5 GB)
